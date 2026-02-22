@@ -2,7 +2,7 @@ Objectives:
 Efficiently Handle Multiple Scenarios:
 • To allow the program to handle multiple scenarios or conditions effectively without requiring excessive
 repetition of code.
-Simplify Complex Condition Checking:
+Simplify Complex Condition Checking: 
 • To break down complicated decisions into smaller, more manageable conditions, making the code easier to
 understand and maintain.
 Support Hierarchical Decision Logic:
